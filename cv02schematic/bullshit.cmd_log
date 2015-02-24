@@ -1,0 +1,16 @@
+xst -intstyle ise -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -ifn "H:/BI-SAP/cv02schematic/bullshit.xst" -ofn "H:/BI-SAP/cv02schematic/bullshit.syr" 
+ngdbuild -filter "iseconfig/filter.filter" -intstyle ise -dd _ngo -nt timestamp -uc bullshit.ucf -p xc3s100e-cp132-4 bullshit.ngc bullshit.ngd  
+map -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o bullshit_map.ncd bullshit.ngd bullshit.pcf 
+par -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -w -intstyle ise -ol high -t 1 bullshit_map.ncd bullshit.ncd bullshit.pcf 
+trce -filter H:/BI-SAP/cv02schematic/iseconfig/filter.filter -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml bullshit.twx bullshit.ncd -o bullshit.twr bullshit.pcf -ucf bullshit.ucf 
+bitgen -filter "iseconfig/filter.filter" -intstyle ise -f bullshit.ut bullshit.ncd 
+ngdbuild -filter "iseconfig/filter.filter" -intstyle ise -dd _ngo -nt timestamp -uc bullshit.ucf -p xc3s100e-cp132-4 bullshit.ngc bullshit.ngd  
+map -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o bullshit_map.ncd bullshit.ngd bullshit.pcf 
+par -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -w -intstyle ise -ol high -t 1 bullshit_map.ncd bullshit.ncd bullshit.pcf 
+trce -filter H:/BI-SAP/cv02schematic/iseconfig/filter.filter -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml bullshit.twx bullshit.ncd -o bullshit.twr bullshit.pcf -ucf bullshit.ucf 
+bitgen -filter "iseconfig/filter.filter" -intstyle ise -f bullshit.ut bullshit.ncd 
+ngdbuild -filter "iseconfig/filter.filter" -intstyle ise -dd _ngo -nt timestamp -uc bullshit.ucf -p xc3s100e-cp132-4 bullshit.ngc bullshit.ngd  
+map -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -intstyle ise -p xc3s100e-cp132-4 -cm area -ir off -pr off -c 100 -o bullshit_map.ncd bullshit.ngd bullshit.pcf 
+par -filter "H:/BI-SAP/cv02schematic/iseconfig/filter.filter" -w -intstyle ise -ol high -t 1 bullshit_map.ncd bullshit.ncd bullshit.pcf 
+trce -filter H:/BI-SAP/cv02schematic/iseconfig/filter.filter -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml bullshit.twx bullshit.ncd -o bullshit.twr bullshit.pcf -ucf bullshit.ucf 
+bitgen -filter "iseconfig/filter.filter" -intstyle ise -f bullshit.ut bullshit.ncd 
