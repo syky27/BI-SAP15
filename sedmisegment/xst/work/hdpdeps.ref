@@ -1,0 +1,9 @@
+V3 3
+FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/SEDMISEGMENT/Sedmisegment/decoder_7seg.vhd 2015/03/03.16:46:32 P.20131013
+EN work/decoder_7seg 1425397744 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/SEDMISEGMENT/Sedmisegment/decoder_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/decoder_7seg/decoder_7seg_arch 1425397745 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/SEDMISEGMENT/Sedmisegment/decoder_7seg.vhd \
+      EN work/decoder_7seg 1425397744

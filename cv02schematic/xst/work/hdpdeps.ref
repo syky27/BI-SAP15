@@ -1,9 +1,0 @@
-V3 7
-FL //ucebnyfile.ucebny.adfit.fit.cvut.cz/home/s/sykorto6/BI-SAP/cv02schematic/bullshit.vhf 2015/02/24.17:17:13 P.20131013
-EN work/bullshit 1424794787 \
-      FL //ucebnyfile.ucebny.adfit.fit.cvut.cz/home/s/sykorto6/BI-SAP/cv02schematic/bullshit.vhf \
-      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
-      PH unisim/VCOMPONENTS 1381692182
-AR work/bullshit/BEHAVIORAL 1424794788 \
-      FL //ucebnyfile.ucebny.adfit.fit.cvut.cz/home/s/sykorto6/BI-SAP/cv02schematic/bullshit.vhf \
-      EN work/bullshit 1424794787 CP AND2B1 CP AND3B2 CP OR3
