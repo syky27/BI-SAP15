@@ -1,0 +1,5 @@
+set -tmpdir "Z:/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/xst/projnav.tmp"
+set -xsthdpdir "Z:/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/xst"
+elaborate
+-ifn decoder_7seg.prj
+-ifmt mixed

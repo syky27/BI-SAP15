@@ -1,0 +1,3 @@
+vhdl work "decoder_7seg.vhd"
+vhdl work "l2_truth_table_4.vhd"
+vhdl work "nasobicka.vhd"

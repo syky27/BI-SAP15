@@ -1,0 +1,35 @@
+V3 19
+FL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd 2013/02/24.23:45:56 P.20131013
+FL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/l2_truth_table_4.vhd 2013/02/24.22:29:56 P.20131013
+EN work/truth_table 1361745572 \
+      FL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/l2_truth_table_4.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/truth_table/Behavioral 1361745573 \
+      FL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/l2_truth_table_4.vhd \
+      EN work/truth_table 1361745572
+FL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd 2013/02/24.23:37:39 P.20131013
+FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd 2015/03/03.17:35:53 P.20131013
+EN work/nasobicka 1425400952 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/nasobicka/nasobicka_arch 1425400953 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd \
+      EN work/nasobicka 1425400952
+FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd 2015/03/03.17:39:44 P.20131013
+EN work/decoder_7seg 1425400950 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1335251623 \
+      PB ieee/STD_LOGIC_UNSIGNED 1335251625
+AR work/decoder_7seg/decoder_7seg_arch 1425400951 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd \
+      EN work/decoder_7seg 1425400950
+FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/schema_nasobicka.vhf 2015/03/03.17:42:27 P.20131013
+EN work/schema_nasobicka 1425400954 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/schema_nasobicka.vhf \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 LB UNISIM \
+      PH unisim/VCOMPONENTS 1381692182
+AR work/schema_nasobicka/BEHAVIORAL 1425400955 \
+      FL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/schema_nasobicka.vhf \
+      EN work/schema_nasobicka 1425400954 CP decoder_7seg CP nasobicka CP VCC

@@ -1,0 +1,2 @@
+vhdtdtfi -lib work decoder_7seg.vhd -prj Sedmisegment -o nasobicka.spl -module nasobicka -template C:/Xilinx/14.1/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e nasobicka.spl Z:/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.sym 

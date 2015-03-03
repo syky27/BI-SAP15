@@ -1,0 +1,3 @@
+vhdl work "nasobicka.vhd"
+vhdl work "decoder_7seg.vhd"
+vhdl work "schema_nasobicka.vhf"
