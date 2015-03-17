@@ -1,5 +1,0 @@
-MODULE schema_nasobicka
-	SUBMODULE decoder_7seg
-		INSTANCE XLXI_1
-	SUBMODULE nasobicka
-		INSTANCE XLXI_2

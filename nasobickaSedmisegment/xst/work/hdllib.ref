@@ -1,8 +1,0 @@
-EN schema_nasobicka NULL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/schema_nasobicka.vhf sub00/vhpl06 1425400954
-AR nasobicka nasobicka_arch C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd sub00/vhpl05 1425400953
-EN truth_table NULL //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/l2_truth_table_4.vhd sub00/vhpl02 1361745572
-EN decoder_7seg NULL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd sub00/vhpl00 1425400950
-AR schema_nasobicka behavioral C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/schema_nasobicka.vhf sub00/vhpl07 1425400955
-AR decoder_7seg decoder_7seg_arch C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/nasobicka.vhd sub00/vhpl01 1425400951
-EN nasobicka NULL C:/Users/sykorto6/Desktop/BI-SAP/JP/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/decoder_7seg.vhd sub00/vhpl04 1425400952
-AR truth_table behavioral //psf/home/Dropbox/Vysoka_skola/4_semestr/BI-SAP/Projekty_XILINX_PRIPRAVA/Nasobicka_a_sedmisegment/Sedmisegment/l2_truth_table_4.vhd sub00/vhpl03 1361745573

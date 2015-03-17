@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=C:\Users\sykorto6\Desktop\BI-SAP\JP\BI-SAP\Projekty_XILINX_PRIPRAVA\Nasobicka_a_sedmisegment\Sedmisegment\schema_nasobicka.ncd
-OUTFILE=C:\Users\sykorto6\Desktop\BI-SAP\JP\BI-SAP\Projekty_XILINX_PRIPRAVA\Nasobicka_a_sedmisegment\Sedmisegment\schema_nasobicka.bit
-FAMILY=Spartan3E
-PART=xc3s100e-4cp132
-WORKINGDIR=C:\Users\sykorto6\Desktop\BI-SAP\JP\BI-SAP\Projekty_XILINX_PRIPRAVA\Nasobicka_a_sedmisegment\Sedmisegment
-LICENSE=ISE
-USER_INFO=176157208_177724465_210593357_564
