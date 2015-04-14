@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega169</DEVICE>
+ <WORKING_DIR>H:\BI-SAP\BI-SAP15-REPO\stopwatch</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m169def.inc</FILE>
+  <FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\print.inc</FILE>
+  <FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\znaky.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\project1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\project1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init_disp><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\print.inc</FILE><LINE>4</LINE></init_disp>
+  <show_char><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\print.inc</FILE><LINE>19</LINE></show_char>
+  <nemezera><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\print.inc</FILE><LINE>36</LINE></nemezera>
+  <znaky><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\znaky.inc</FILE><LINE>7</LINE></znaky>
+  <zobzc><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\print.inc</FILE><LINE>56</LINE></zobzc>
+  <start><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>127</LINE></start>
+  <int_T2><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>10</LINE></int_T2>
+  <disabled><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>17</LINE></disabled>
+  <increment_S><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>20</LINE></increment_S>
+  <increment_S_ok><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>27</LINE></increment_S_ok>
+  <increment_Se><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>30</LINE></increment_Se>
+  <increment_Se_ok><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>38</LINE></increment_Se_ok>
+  <increment_M><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>41</LINE></increment_M>
+  <div><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>46</LINE></div>
+  <compare><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>49</LINE></compare>
+  <div_done><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>56</LINE></div_done>
+  <print_S><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>59</LINE></print_S>
+  <print_Se><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>71</LINE></print_Se>
+  <print_M><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>83</LINE></print_M>
+  <joystick><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>95</LINE></joystick>
+  <reset><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>104</LINE></reset>
+  <cycle_joy><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>186</LINE></cycle_joy>
+  <notchanged><FILE>H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm</FILE><LINE>204</LINE></notchanged>
+ </LABELS>
+</ASSEMBLER_INFO>

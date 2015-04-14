@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.42  \\ucebnyfile.ucebny.adfit.fit.cvut.cz\home\s\sykorto6\Documents\FEKALROTACE\fekalrotace.asm Tue Apr 14 16:38:13 2015
+AVRASM ver. 2.1.42  H:\BI-SAP\BI-SAP15-REPO\stopwatch\stopwatch.asm Tue Apr 14 16:49:53 2015
 
 
 EQU  SIGNATURE_000 0000001e
@@ -925,11 +925,21 @@ CSEG show_char    0000100d
 CSEG nemezera     0000101b
 CSEG znaky        00001041
 CSEG zobzc        0000102c
-CSEG start        0000010f
-CSEG retez        00000100
-CSEG while        00000119
-CSEG zacatek      00000119
-CSEG zpozdi       0000011b
-CSEG pryc         0000014b
-CSEG equal1       0000012b
-CSEG end          0000014e
+CSEG start        00000077
+CSEG int_T2       0000000c
+CSEG disabled     00000013
+CSEG increment_S  00000014
+CSEG increment_S_ok 0000001a
+CSEG increment_Se 0000001b
+CSEG increment_Se_ok 00000022
+CSEG increment_M  00000023
+CSEG div          00000026
+CSEG compare      00000027
+CSEG div_done     0000002d
+CSEG print_S      0000002e
+CSEG print_Se     0000003b
+CSEG print_M      00000048
+CSEG joystick     00000055
+CSEG reset        0000005d
+CSEG cycle_joy    000000ba
+CSEG notchanged   000000cb

@@ -1,3 +1,4 @@
+.include "m169def.inc"
 ;---------------------------------
 ; init_disp - inicializace displeje. Nutno zavolat pred zobrazovanim na displeji.
 init_disp:

@@ -4,7 +4,6 @@
 ;
 ;*********************************************************
 ;
-
 znaky:
 ; znaky ASCII tabulky od kodu 42 (*) do kodu 95 (_)
 ; platna je vzdy spodni polovina bity
